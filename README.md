@@ -1,4 +1,4 @@
-# Search-database-based-on-your-prompt
+
 
 Natural Language Database Query System
 The Natural Language Database Query System is a project designed to simplify the process of interacting with databases by allowing users to input queries in plain English, which are then automatically converted into SQL queries. This system is particularly useful for users who may not be familiar with SQL syntax but need to retrieve or manipulate data stored in a relational database.
